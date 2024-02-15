@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="testatoo.openqa.selenium.java.client.driver" type="repository">
+    <properties maven-id="org.testatoo.openqa:selenium-java-client-driver:1.0.2_20090715" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testatoo/openqa/selenium-java-client-driver/1.0.2_20090715/selenium-java-client-driver-1.0.2_20090715.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
